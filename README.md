@@ -22,3 +22,6 @@ jupyter lab
 ## Overview
 
 *basic_examples.ipynb* contains a small problem to showcase how to work with the pulp library
+
+*data_product_optimization* contains the actual demo showing how to determine bronze data 
+products for given dependencies while minimizing unnecessarily loaded data.
